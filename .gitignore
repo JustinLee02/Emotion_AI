@@ -1,0 +1,17 @@
+# Python 가상환경
+venv/
+.venv/
+*env/
+
+# Python 캐시
+__pycache__/
+*.pyc
+
+# Jupyter Notebook 체크포인트
+.ipynb_checkpoints/
+
+# 우리가 만든 결과물 폴더 (절대 올리면 안 됨)
+finetuned_models/
+
+# (나중에 생길 수 있는) OS 파일
+.DS_Store
