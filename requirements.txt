@@ -3,3 +3,5 @@ transformers
 bitsandbytes
 accelerate
 peft
+datasets
+trl

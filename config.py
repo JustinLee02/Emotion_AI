@@ -1,7 +1,7 @@
 # config.py 
 
 # --- 모델 설정 ---
-BASE_MODEL_ID = "moonshotai/Kimi-K2-Thinking"
+BASE_MODEL_ID = "meta-llama/Llama-3.1-8B-Instruct"
 
 DATA_PATH = "data/growit_dialogues.jsonl"
 
